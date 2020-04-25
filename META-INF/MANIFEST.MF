@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Version: git:Travertine-Bootstrap:1.15-SNAPSHOT:9cdd70e
+ :unknown
+Multi-Release: true
+Build-Jdk-Spec: 1.8
+Created-By: Maven Jar Plugin 3.2.0
+Specification-Version: 20200409
+Main-Class: net.md_5.bungee.Bootstrap
+
