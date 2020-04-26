@@ -12,9 +12,9 @@
 /*    */   
 /*    */   public void execute(CommandSender paramCommandSender, String[] paramArrayOfString) {
 /* 14 */     String str = ProxyServer.getInstance().getVersion();
-/* 15 */     paramCommandSender.sendMessage(ChatColor.RED + "This server is running " + String.valueOf(ChatColor.WHITE) + "FlexCord" + 
+/* 15 */     paramCommandSender.sendMessage(ChatColor.RED + "This server is running " + String.valueOf(ChatColor.WHITE) + "FlameCord" + 
 /* 16 */         String.valueOf(ChatColor.RED) + " version " + String.valueOf(ChatColor.YELLOW) + str + 
-/* 17 */         String.valueOf(ChatColor.RED) + " by SeaEclipse " + String.valueOf(ChatColor.AQUA) + "(patch by SeaEclipse)");
+/* 17 */         String.valueOf(ChatColor.RED) + " by 2LS " + String.valueOf(ChatColor.AQUA) + "(patch by SeaEclipse)");
 /*    */   }
 /*    */ }
 
